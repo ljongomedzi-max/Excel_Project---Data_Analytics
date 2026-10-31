@@ -7,6 +7,9 @@ This repository contains two Excel projects exploring data-related job postings,
 ### 1. Data Jobs Dashboard
 **File:** `Project 1 - Final Dashboard.xlsx`
 
+<img width="1757" height="847" alt="Screenshot 2026-10-31 160330" src="https://github.com/user-attachments/assets/a7d5408a-ca21-413a-b6dd-55a7015f596c" />
+
+
 An interactive dashboard built from a job-postings dataset. The workbook includes 32,672 posting rows and fields such as job title, location, work arrangement, schedule, employer, posting date, salary, and listed skills.
 
 Workbook sheets:
@@ -18,6 +21,11 @@ Workbook sheets:
 
 ### 2. Data Analytics: Skills and Salary
 **File:** `Project 2 - Data Analytics.xlsx`
+
+<img width="1177" height="807" alt="Screenshot 2026-10-31 162146" src="https://github.com/user-attachments/assets/3364bfc4-476d-40e8-b155-663bd7944154" />
+
+<img width="1510" height="432" alt="Screenshot 2026-10-31 162930" src="https://github.com/user-attachments/assets/83c86f82-a970-4a42-8423-437fe02e6c6b" />
+
 
 A focused comparison of skills, job roles, and salary measures. Its worksheets summarize skill demand by job and compare median salary across roles, locations, and skills.
 
