@@ -9,7 +9,6 @@ This repository contains two Excel projects exploring data-related job postings,
 
 <img width="1757" height="847" alt="Screenshot 2026-10-31 160330" src="https://github.com/user-attachments/assets/a7d5408a-ca21-413a-b6dd-55a7015f596c" />
 
-
 An interactive dashboard built from a job-postings dataset. The workbook includes 32,672 posting rows and fields such as job title, location, work arrangement, schedule, employer, posting date, salary, and listed skills.
 
 Workbook sheets:
