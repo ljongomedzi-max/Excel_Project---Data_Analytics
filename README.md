@@ -37,7 +37,7 @@ Workbook sheets:
 - `Salary analysis` — salary summaries by job and geography
 - `Skil salary analysis` — skill-level salary analysis
 
-[Check out my work here]()
+[Check out my work here](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%202%20-%20Data%20Analysis/Project%202%20-%20Data%20Analysis.xlsx)
 
 ## How to explore
 
