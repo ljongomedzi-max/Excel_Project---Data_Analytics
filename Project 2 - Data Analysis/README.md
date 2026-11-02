@@ -1,10 +1,10 @@
-# Data Analytics: Skills and Salary
+# Data Analysis: Skills and Salary
 
 An Excel analysis of data-related job postings, focusing on how in-demand skills vary across roles and how salaries compare by job, location, and skill.
 
 ## Workbook
 
-**File:** `Project 2 - Data Analytics.xlsx`
+**File:** `Project 2 - Data Analysis.xlsx`
 
 The workbook contains summary analyses for roles such as Data Analyst, Data Scientist, Data Engineer, and related positions. It compares skill demand and median salary measures, including US and non-US salary summaries.
 
