@@ -28,7 +28,7 @@ Workbook sheets:
 <img width="1177" height="807" alt="Screenshot 2026-10-31 162146" src="https://github.com/user-attachments/assets/3364bfc4-476d-40e8-b155-663bd7944154" />
 
 <img width="1510" height="432" alt="Screenshot 2026-10-31 162930" src="https://github.com/user-attachments/assets/83c86f82-a970-4a42-8423-437fe02e6c6b" />
-
+![Skills vs Salary]("C:\Users\JONGOMEDZI\OneDrive\Documents\Github\assets\Skills vs Salary.png")
 
 A focused comparison of skills, job roles, and salary measures. Its worksheets summarize skill demand by job and compare median salary across roles, locations, and skills.
 
