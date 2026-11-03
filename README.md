@@ -40,6 +40,7 @@ Workbook sheets:
 - `Skil salary analysis` — skill-level salary analysis
 
 [Check out my work here](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%202%20-%20Data%20Analysis/Project%202%20-%20Data%20Analysis.xlsx)
+<img width="1821" height="612" alt="Top Data Analyst Skills" src="https://github.com/user-attachments/assets/533c02da-ff45-4b4d-88a1-f83cf295752f" />
 
 ## How to explore
 
