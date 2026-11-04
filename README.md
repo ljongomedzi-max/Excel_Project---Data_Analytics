@@ -60,4 +60,4 @@ Workbook sheets:
 | File | Description |
 | --- | --- |
 | `Project 1 - Final Dashboard.xlsx` | Job-posting data and interactive dashboard |
-| `Project 2 - Data Analytics.xlsx` | Skill and salary analysis |
+| `Project 2 - Data Analysis.xlsx` | Skill and salary analysis |
