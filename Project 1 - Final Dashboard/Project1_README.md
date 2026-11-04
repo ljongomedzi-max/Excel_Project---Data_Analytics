@@ -187,6 +187,9 @@ The largest categories by record count in the supplied workbook are:
 | Software Engineer | 573 |
 | Cloud Engineer | 86 |
 
+<img width="903" height="207" alt="Job Category Demand" src="https://github.com/user-attachments/assets/5a503594-2984-4c89-937d-6082f6565c7f" />
+
+
 Data Analyst is the largest category in this workbook's source data.
 
 ### 7.2 Salary Information
@@ -211,6 +214,9 @@ Full-time is the most common schedule type in the workbook, followed by Contract
 Some records contain combined schedule descriptions, such as Full-time and Part-time. These should be treated as the categories recorded in the source data rather than assumed to be separate individual arrangements.
 
 ### 7.5 Dashboard Salary Comparisons
+
+<img width="1757" height="927" alt="Salary Dashboard" src="https://github.com/user-attachments/assets/8f0f5601-ff74-44b1-be64-5d7572358f22" />
+
 
 The `Salary Dashboard` worksheet provides selection fields for:
 
@@ -354,6 +360,9 @@ Overall, the project provides a practical example of using Excel to transform jo
 ## 13. Dashboard and Workbook Structure
 
 ### Main Dashboard
+
+<img width="1757" height="927" alt="Salary Dashboard" src="https://github.com/user-attachments/assets/e42b0b9e-ff07-4aaf-8cd7-9b62f5eb1e6f" />
+
 
 The `Salary Dashboard` worksheet is the main user-facing sheet.
 
