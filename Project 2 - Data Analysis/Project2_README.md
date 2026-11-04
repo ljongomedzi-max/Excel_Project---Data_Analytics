@@ -14,17 +14,22 @@ The workbook contains summary analyses for roles such as Data Analyst, Data Scie
 <img width="943" height="267" alt="Skill_Job_Analysis" src="https://github.com/user-attachments/assets/8a62ca33-81a7-4ae4-a7c7-5dd79960f052" />
 
 
+
 - **Salary vs Skills** — explores salary comparisons for selected skills
 <img width="1810" height="802" alt="Skills vs Salary" src="https://github.com/user-attachments/assets/f57e8800-dca8-4f8a-bcda-06b9a09820a2" />
 
 
+
 - **Salary analysis** — summarizes median salaries by job role and geography
-<img width="1225" height="818" alt="Salary Analysis" src="https://github.com/user-attachments/assets/0477a844-568f-40ad-a9a3-695eeea0ffc3" />
+
+<img width="1198" height="285" alt="Salary Analysis" src="https://github.com/user-attachments/assets/606fe703-28a2-4377-acc2-ffc8c738c499" />
+
 
 
 - **Skil salary analysis** — compares salary measures across skills
 
   <img width="1182" height="810" alt="Skill salary Analysis" src="https://github.com/user-attachments/assets/8a02fe8a-3655-40ce-b567-08785db6c62b" />
+
 
 
 ## How to use
