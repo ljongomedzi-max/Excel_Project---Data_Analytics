@@ -215,8 +215,9 @@ Some records contain combined schedule descriptions, such as Full-time and Part-
 
 ### 7.5 Dashboard Salary Comparisons
 
-<img width="1757" height="927" alt="Salary Dashboard" src="https://github.com/user-attachments/assets/8f0f5601-ff74-44b1-be64-5d7572358f22" />
+<img width="1757" height="847" alt="Screenshot 2026-10-31 160330" src="https://github.com/user-attachments/assets/a7d5408a-ca21-413a-b6dd-55a7015f596c" />
 
+<img width="1757" height="927" alt="Salary Dashboard" src="https://github.com/user-attachments/assets/8f0f5601-ff74-44b1-be64-5d7572358f22" />
 
 The `Salary Dashboard` worksheet provides selection fields for:
 
