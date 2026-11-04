@@ -21,6 +21,8 @@ The workbook contains summary analyses for roles such as Data Analyst, Data Scie
 2. Select a worksheet to explore skill demand or salary comparisons.
 3. Use the available filters or slicers to focus on particular roles, skills, or groups, then compare the summaries.
 
+{Check out my work here: [Data_Job_Analysis](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%202%20-%20Data%20Analysis/Project%202%20-%20Data%20Analysis.xlsx)}
+
 ## Notes
 
 The salary and skill patterns reflect the job-posting data included in this workbook. Salary comparisons depend on the records and salary information available in the dataset and may not represent the full labor market.
