@@ -7,7 +7,8 @@ An interactive Microsoft Excel dashboard for exploring data job postings, salari
 
 ## Workbook
 
-**File:** `Project 1 - Final Dashboard.xlsx`
+**File:** `Project 1 - Final Dashboard.xlsx`  
+{Check out my work here: [Salary Dashboard](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)}
 
 The source data sheet contains 32,672 job-posting records with fields including:
 
@@ -31,8 +32,6 @@ The source data sheet contains 32,672 job-posting records with fields including:
 1. Open the workbook in Microsoft Excel.
 2. Go to **Salary Dashboard** and use the available filters or slicers to focus on a job category, location, or other dimension.
 3. Compare the resulting summaries and refer to the **Data** sheet for the underlying postings.
-
-{Check out my work here: [Salary Dashboard](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)}
 
 ## Notes
 
