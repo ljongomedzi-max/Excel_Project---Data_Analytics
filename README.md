@@ -20,15 +20,14 @@ Workbook sheets:
 
 [Checkout my work here](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)
 
-![Final Salary Dashboard]("C:\Users\JONGOMEDZI\OneDrive\Pictures\Screenshots\Salary Dashboard 2026-11-02 102459.png")
-
 ### 2. Data Analytics: Skills and Salary
 **File:** `Project 2 - Data Analytics.xlsx`
 
-<img width="1177" height="807" alt="Screenshot 2026-10-31 162146" src="https://github.com/user-attachments/assets/3364bfc4-476d-40e8-b155-663bd7944154" />
+<img width="1810" height="802" alt="Skills vs Salary" src="https://github.com/user-attachments/assets/f6a59280-f79a-45d9-8844-883a6d026134" />
 
-<img width="1510" height="432" alt="Screenshot 2026-10-31 162930" src="https://github.com/user-attachments/assets/83c86f82-a970-4a42-8423-437fe02e6c6b" />
-![Skills vs Salary]("C:\Users\JONGOMEDZI\OneDrive\Documents\Github\assets\Skills vs Salary.png")
+<img width="1821" height="612" alt="Top Data Analyst Skills" src="https://github.com/user-attachments/assets/6ed12b1e-fc3f-48c2-927d-0a910993b1ce" />
+
+
 
 A focused comparison of skills, job roles, and salary measures. Its worksheets summarize skill demand by job and compare median salary across roles, locations, and skills.
 
