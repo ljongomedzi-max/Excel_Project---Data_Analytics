@@ -9,6 +9,7 @@ This repository contains two Excel projects exploring data-related job postings,
 
 <img width="1757" height="847" alt="Screenshot 2026-10-31 160330" src="https://github.com/user-attachments/assets/a7d5408a-ca21-413a-b6dd-55a7015f596c" />
 
+
 An interactive dashboard built from a job-postings dataset. The workbook includes 32,672 posting rows and fields such as job title, location, work arrangement, schedule, employer, posting date, salary, and listed skills.
 
 Workbook sheets:
@@ -20,13 +21,12 @@ Workbook sheets:
 
 [Checkout my work here](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/tree/main/Project%201%20-%20Final%20Dashboard)
 
-### 2. Data Analytics: Skills and Salary
-**File:** `Project 2 - Data Analytics.xlsx`
+### 2. Data Analysis: Skills and Salary
+**File:** `Project 2 - Data Analysis.xlsx`
 
 <img width="1810" height="802" alt="Skills vs Salary" src="https://github.com/user-attachments/assets/f6a59280-f79a-45d9-8844-883a6d026134" />
 
 <img width="1821" height="612" alt="Top Data Analyst Skills" src="https://github.com/user-attachments/assets/6ed12b1e-fc3f-48c2-927d-0a910993b1ce" />
-
 
 
 A focused comparison of skills, job roles, and salary measures. Its worksheets summarize skill demand by job and compare median salary across roles, locations, and skills.
@@ -39,7 +39,7 @@ Workbook sheets:
 - `Skil salary analysis` — skill-level salary analysis
 
 [Check out my work here](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%202%20-%20Data%20Analysis/Project%202%20-%20Data%20Analysis.xlsx)
-<img width="1821" height="612" alt="Top Data Analyst Skills" src="https://github.com/user-attachments/assets/533c02da-ff45-4b4d-88a1-f83cf295752f" />
+
 
 ## How to explore
 
