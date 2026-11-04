@@ -1,10 +1,14 @@
 # Data Jobs Salary Dashboard
 
+<img width="1167" height="773" alt="Salary Dashboard" src="https://github.com/user-attachments/assets/10adee70-844b-4847-a170-71231d3ef341" />
+
+
 An interactive Microsoft Excel dashboard for exploring data job postings, salaries, and hiring trends. The workbook uses job-posting data to compare roles, locations, work arrangements, employers, and the skills listed in advertisements.
 
 ## Workbook
 
-**File:** `Project 1 - Final Dashboard.xlsx`
+**File:** `Project 1 - Final Dashboard.xlsx`  
+{Check out my work here: [Salary Dashboard](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)}
 
 The source data sheet contains 32,672 job-posting records with fields including:
 
