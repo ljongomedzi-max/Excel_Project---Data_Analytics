@@ -18,7 +18,7 @@ Workbook sheets:
 - `Title`, `Country`, `Type`, and `Platform` — supporting breakdowns used in the analysis
 - `Salary Dashboard` — dashboard view of job and salary patterns
 
-[Checkout my work here](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)
+[Checkout my work here]()
 
 ### 2. Data Analytics: Skills and Salary
 **File:** `Project 2 - Data Analytics.xlsx`
