@@ -355,7 +355,7 @@ Overall, the project provides a practical example of using Excel to transform jo
 
 ## 13. Dashboard and Workbook Structure
 
-[Dashboard workbook](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)
+(Check out my work here:) [Dashboard workbook](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)
 
 ### Main Dashboard
 
