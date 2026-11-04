@@ -1,5 +1,8 @@
 # Data Jobs Salary Dashboard
 
+<img width="1167" height="773" alt="Salary Dashboard" src="https://github.com/user-attachments/assets/10adee70-844b-4847-a170-71231d3ef341" />
+
+
 An interactive Microsoft Excel dashboard for exploring data job postings, salaries, and hiring trends. The workbook uses job-posting data to compare roles, locations, work arrangements, employers, and the skills listed in advertisements.
 
 ## Workbook
