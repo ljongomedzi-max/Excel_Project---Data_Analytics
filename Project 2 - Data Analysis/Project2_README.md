@@ -5,6 +5,7 @@ An Excel analysis of data-related job postings, focusing on how in-demand skills
 ## Workbook
 
 **File:** `Project 2 - Data Analysis.xlsx`
+{Check out my work here: [Data_Job_Analysis](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%202%20-%20Data%20Analysis/Project%202%20-%20Data%20Analysis.xlsx)}
 
 The workbook contains summary analyses for roles such as Data Analyst, Data Scientist, Data Engineer, and related positions. It compares skill demand and median salary measures, including US and non-US salary summaries.
 
@@ -38,8 +39,6 @@ The workbook contains summary analyses for roles such as Data Analyst, Data Scie
 1. Open the workbook in Microsoft Excel.
 2. Select a worksheet to explore skill demand or salary comparisons.
 3. Use the available filters or slicers to focus on particular roles, skills, or groups, then compare the summaries.
-
-{Check out my work here: [Data_Job_Analysis](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%202%20-%20Data%20Analysis/Project%202%20-%20Data%20Analysis.xlsx)}
 
 ## Notes
 
