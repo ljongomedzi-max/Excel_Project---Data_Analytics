@@ -11,7 +11,8 @@ The workbook contains summary analyses for roles such as Data Analyst, Data Scie
 ## Sheets
 
 - **Skill_Job_Analysis** — compares skill likelihood across job titles
-<img width="943" height="267" alt="Skill_Job_Analysis" src="https://github.com/user-attachments/assets/8a62ca33-81a7-4ae4-a7c7-5dd79960f052" />
+<img width="1491" height="417" alt="Skill_Job_Analysis" src="https://github.com/user-attachments/assets/2d3a8104-2930-4cb5-81f0-e9f04dd30a06" />
+
 
 
 
