@@ -32,6 +32,8 @@ The source data sheet contains 32,672 job-posting records with fields including:
 2. Go to **Salary Dashboard** and use the available filters or slicers to focus on a job category, location, or other dimension.
 3. Compare the resulting summaries and refer to the **Data** sheet for the underlying postings.
 
+{Check out my work here: [Salary Dashboard](https://github.com/ljongomedzi-max/Excel_Project_-_Data_Job_Analysis/blob/main/Project%201%20-%20Final%20Dashboard/Project%201%20-%20Final%20Dashboard.xlsx)}
+
 ## Notes
 
 Salary and job-market patterns shown in the workbook reflect the included dataset. They may not represent the full labor market, and salary comparisons depend on the postings and salary information available in the data.
